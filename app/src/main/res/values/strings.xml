@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Team930</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="domain">http://team930.itforone.co.kr/</string>
+    <string name="as_url">http://team930.itforone.co.kr/bbs/write.php?bo_table=as_request</string>
+    <string name="second_hand_url">http://team930.itforone.co.kr/bbs/board.php?bo_table=direct_deal</string>
+    <string name="login_url">http://team930.itforone.co.kr/bbs/login.php</string>
+    <string name="register_url">http://team930.itforone.co.kr/bbs/register_form.php</string>
+    <string name="mypage_url">http://team930.itforone.co.kr/bbs/mypage.php</string>
+    <string name="notice_url">http://team930.itforone.co.kr/bbs/board.php?bo_table=notice</string>
+    <string name="game_url">http://team930.itforone.co.kr/bbs/board.php?bo_table=game</string>
+    <string name="provision_url">http://team930.itforone.co.kr/bbs/content.php?co_id=provision</string>
+    <string name="privacy_url">http://team930.itforone.co.kr/bbs/content.php?co_id=privacy</string>
+    <string name="popup_url">http://team930.itforone.co.kr/mobile/app.newwin.inc.php</string>
+
+</resources>
